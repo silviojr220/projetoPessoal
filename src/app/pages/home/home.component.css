@@ -1,0 +1,13 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    height: 100dvh;
+    background: rgb(53, 53, 53);
+}
